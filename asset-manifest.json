@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://SaraVieira.github.io/csb-5vy67/static/css/main.16122306.chunk.css",
+    "main.js": "https://SaraVieira.github.io/csb-5vy67/static/js/main.e4ac5b8b.chunk.js",
+    "main.js.map": "https://SaraVieira.github.io/csb-5vy67/static/js/main.e4ac5b8b.chunk.js.map",
+    "runtime-main.js": "https://SaraVieira.github.io/csb-5vy67/static/js/runtime-main.0fe91e65.js",
+    "runtime-main.js.map": "https://SaraVieira.github.io/csb-5vy67/static/js/runtime-main.0fe91e65.js.map",
+    "static/js/2.ed01b7f8.chunk.js": "https://SaraVieira.github.io/csb-5vy67/static/js/2.ed01b7f8.chunk.js",
+    "static/js/2.ed01b7f8.chunk.js.map": "https://SaraVieira.github.io/csb-5vy67/static/js/2.ed01b7f8.chunk.js.map",
+    "index.html": "https://SaraVieira.github.io/csb-5vy67/index.html",
+    "precache-manifest.c9c4eea88ba2b595390840cf051f7b9b.js": "https://SaraVieira.github.io/csb-5vy67/precache-manifest.c9c4eea88ba2b595390840cf051f7b9b.js",
+    "service-worker.js": "https://SaraVieira.github.io/csb-5vy67/service-worker.js",
+    "static/css/main.16122306.chunk.css.map": "https://SaraVieira.github.io/csb-5vy67/static/css/main.16122306.chunk.css.map",
+    "static/js/2.ed01b7f8.chunk.js.LICENSE.txt": "https://SaraVieira.github.io/csb-5vy67/static/js/2.ed01b7f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fe91e65.js",
+    "static/js/2.ed01b7f8.chunk.js",
+    "static/css/main.16122306.chunk.css",
+    "static/js/main.e4ac5b8b.chunk.js"
+  ]
+}
