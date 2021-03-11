@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "https://SaraVieira.github.io/csb-5vy67/static/css/main.16122306.chunk.css",
-    "main.js": "https://SaraVieira.github.io/csb-5vy67/static/js/main.e4ac5b8b.chunk.js",
-    "main.js.map": "https://SaraVieira.github.io/csb-5vy67/static/js/main.e4ac5b8b.chunk.js.map",
+    "main.js": "https://SaraVieira.github.io/csb-5vy67/static/js/main.a8254962.chunk.js",
+    "main.js.map": "https://SaraVieira.github.io/csb-5vy67/static/js/main.a8254962.chunk.js.map",
     "runtime-main.js": "https://SaraVieira.github.io/csb-5vy67/static/js/runtime-main.0fe91e65.js",
     "runtime-main.js.map": "https://SaraVieira.github.io/csb-5vy67/static/js/runtime-main.0fe91e65.js.map",
-    "static/js/2.ed01b7f8.chunk.js": "https://SaraVieira.github.io/csb-5vy67/static/js/2.ed01b7f8.chunk.js",
-    "static/js/2.ed01b7f8.chunk.js.map": "https://SaraVieira.github.io/csb-5vy67/static/js/2.ed01b7f8.chunk.js.map",
+    "static/js/2.beb3b21f.chunk.js": "https://SaraVieira.github.io/csb-5vy67/static/js/2.beb3b21f.chunk.js",
+    "static/js/2.beb3b21f.chunk.js.map": "https://SaraVieira.github.io/csb-5vy67/static/js/2.beb3b21f.chunk.js.map",
     "index.html": "https://SaraVieira.github.io/csb-5vy67/index.html",
-    "precache-manifest.c9c4eea88ba2b595390840cf051f7b9b.js": "https://SaraVieira.github.io/csb-5vy67/precache-manifest.c9c4eea88ba2b595390840cf051f7b9b.js",
+    "precache-manifest.0d6ab4d5c1d6283974ab7d76ef135e1c.js": "https://SaraVieira.github.io/csb-5vy67/precache-manifest.0d6ab4d5c1d6283974ab7d76ef135e1c.js",
     "service-worker.js": "https://SaraVieira.github.io/csb-5vy67/service-worker.js",
     "static/css/main.16122306.chunk.css.map": "https://SaraVieira.github.io/csb-5vy67/static/css/main.16122306.chunk.css.map",
-    "static/js/2.ed01b7f8.chunk.js.LICENSE.txt": "https://SaraVieira.github.io/csb-5vy67/static/js/2.ed01b7f8.chunk.js.LICENSE.txt"
+    "static/js/2.beb3b21f.chunk.js.LICENSE.txt": "https://SaraVieira.github.io/csb-5vy67/static/js/2.beb3b21f.chunk.js.LICENSE.txt",
+    "static/media/CleanShot 2021-03-10 at 18.07.58.png": "https://SaraVieira.github.io/csb-5vy67/static/media/CleanShot 2021-03-10 at 18.07.58.8516b13d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0fe91e65.js",
-    "static/js/2.ed01b7f8.chunk.js",
+    "static/js/2.beb3b21f.chunk.js",
     "static/css/main.16122306.chunk.css",
-    "static/js/main.e4ac5b8b.chunk.js"
+    "static/js/main.a8254962.chunk.js"
   ]
 }
